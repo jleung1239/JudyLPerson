@@ -37,7 +37,7 @@ public class Person
             ", cell: " + this.cell; }
 
 
-    //////////// main for testing //////////////
+    //////////// main for testing ///////////////
     public static void main(String[] args)
     {
         Person p1 = new Person("Deja", "555 132-3253");
